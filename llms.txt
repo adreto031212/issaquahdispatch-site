@@ -1,0 +1,60 @@
+# Issaquah Dispatch
+
+> The Issaquah Dispatch is a free weekly email newsletter about Issaquah, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Issaquah](https://www.issaquahdispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Issaquah news](https://www.issaquahdispatch.com/news/): every story, newest first
+- [Reader asked](https://www.issaquahdispatch.com/asked/): readers' questions answered from the public record
+- [Standards](https://www.issaquahdispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.issaquahdispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Central Issaquah](https://www.issaquahdispatch.com/central-issaquah/): The valley floor along I-90 and Gilman Boulevard, with Gilman Village, the big employers and the Central Issaquah plan reshaping the shopping centers.
+- [Issaquah Highlands](https://www.issaquahdispatch.com/issaquah-highlands/): The urban village on Grand Ridge above I-90: Blakely Hall, Grand Ridge Plaza, the park-and-ride and trails into Grand Ridge Park.
+- [Issaquah Valley](https://www.issaquahdispatch.com/issaquah-valley/): The valley at the foot of Squak Mountain beside Olde Town, with Confluence Park, Berntsen Park and Salmon Run Park.
+- [Montreux](https://www.issaquahdispatch.com/montreux/): The wooded northern slope of Cougar Mountain, looking out over Lake Sammamish toward the Cascades.
+- [Newport](https://www.issaquahdispatch.com/newport/): West of SR 900 and south of I-90, where Newport Way crosses Tibbetts Creek near Tibbetts Valley Park and the Cougar Mountain trailhead.
+- [North Issaquah](https://www.issaquahdispatch.com/north-issaquah/): The valley floor north of I-90, next to Lake Sammamish State Park and the East Lake Sammamish Trail.
+- [Olde Town](https://www.issaquahdispatch.com/olde-town/): Issaquah's historic downtown: Front Street, the Issaquah Depot, Village Theatre, the salmon hatchery and the Issaquah Creek trail.
+- [Providence Point](https://www.issaquahdispatch.com/providence-point/): 161 rolling acres in the Cascade foothills above Lake Sammamish, bordered by Laughing Jacobs Creek, with miles of walking paths.
+- [South Lake Sammamish](https://www.issaquahdispatch.com/south-lake-sammamish/): The southwest end of Lake Sammamish, with Timberlake Park, Blackberry Park and Meerwood Park along the shore.
+- [Squak Mountain](https://www.issaquahdispatch.com/squak-mountain/): The mountain closest to downtown, with towering evergreens and the trails of Squak Mountain State Park.
+- [Sycamore](https://www.issaquahdispatch.com/sycamore/): Both sides of Front Street South at the city's southern edge, between Tiger and Squak mountains, with Issaquah Creek, Squak Valley Park and the Poo Poo Point trailhead.
+- [Talus](https://www.issaquahdispatch.com/talus/): The hillside community on Cougar Mountain, with Harvey Manning Park and trail access into the Issaquah Alps.
+
+## Latest
+- [The council is expected to adopt the 2027–28 budget on Monday](https://www.issaquahdispatch.com/news/2026-11-12-the-council-is-expected-to-adopt-the-2027-28-budget-on-monday/) (2026-11-12)
+- [NW Sammamish Road now stays closed until November 22, longer than the six weeks announced in October](https://www.issaquahdispatch.com/news/2026-11-12-nw-sammamish-road-now-stays-closed-until-november-22-longer-than-the-s/) (2026-11-12)
+- [The Highlands lights its big tree next Thursday](https://www.issaquahdispatch.com/news/2026-11-12-the-highlands-lights-its-big-tree-next-thursday/) (2026-11-12)
+- [a free repair class and a tool library](https://www.issaquahdispatch.com/news/2026-11-12-a-free-repair-class-and-a-tool-library/) (2026-11-12)
+- [What Issaquah is doing about traffic and road capacity as new apartments get built](https://www.issaquahdispatch.com/asked/2026-11-12-what-issaquah-is-doing-about-traffic-and-road-capacity-as-new-apartmen/) (2026-11-12)
+- [The council expects to adopt the 2027–28 budget on November 16](https://www.issaquahdispatch.com/news/2026-11-05-the-council-expects-to-adopt-the-2027-28-budget-on-november-16/) (2026-11-05)
+- [Update: Lake Tradition's accessible loop is due for new gravel in early November](https://www.issaquahdispatch.com/news/2026-11-05-update-lake-tradition-s-accessible-loop-is-due-for-new-gravel-in-early/) (2026-11-05)
+- [a free day for state parks on November 11](https://www.issaquahdispatch.com/news/2026-11-05-a-free-day-for-state-parks-on-november-11/) (2026-11-05)
+- [Whether Issaquah is planning more pool space, Squak Mountain sidewalks, bike lanes or field upgrades at Tibbetts](https://www.issaquahdispatch.com/asked/2026-11-05-whether-issaquah-is-planning-more-pool-space-squak-mountain-sidewalks/) (2026-11-05)
+- [The final budget hearing and the 2027 property tax levy hearing are Monday, November 2, at 7 PM](https://www.issaquahdispatch.com/news/2026-10-29-the-final-budget-hearing-and-the-2027-property-tax-levy-hearing-are-mo/) (2026-10-29)
+- [Ballot drop boxes close Tuesday, November 3, at 8 PM](https://www.issaquahdispatch.com/news/2026-10-29-ballot-drop-boxes-close-tuesday-november-3-at-8-pm/) (2026-10-29)
+- [Lake Tradition's accessible trail loop is getting new gravel, with work done in early November](https://www.issaquahdispatch.com/news/2026-10-29-lake-tradition-s-accessible-trail-loop-is-getting-new-gravel-with-work/) (2026-10-29)
+- [Issaquah is the first Washington city with a Charging Smart designation](https://www.issaquahdispatch.com/news/2026-10-29-issaquah-is-the-first-washington-city-with-a-charging-smart-designatio/) (2026-10-29)
+- [City offices close Wednesday, November 11, for Veterans Day](https://www.issaquahdispatch.com/news/2026-10-29-city-offices-close-wednesday-november-11-for-veterans-day/) (2026-10-29)
+- [test the smoke alarms when the clocks fall back](https://www.issaquahdispatch.com/news/2026-10-29-test-the-smoke-alarms-when-the-clocks-fall-back/) (2026-10-29)
+- [Who maintains Issaquah's utility poles and overhead wires, and why they aren't kept up better](https://www.issaquahdispatch.com/asked/2026-10-29-who-maintains-issaquah-s-utility-poles-and-overhead-wires-and-why-they/) (2026-10-29)
+- [Your next chance to comment on the 2027–28 budget is Monday, October 26](https://www.issaquahdispatch.com/news/2026-10-22-your-next-chance-to-comment-on-the-2027-28-budget-is-monday-october-26/) (2026-10-22)
+- [Council kept the new 0.01% sales tax local](https://www.issaquahdispatch.com/news/2026-10-22-council-kept-the-new-0-01-sales-tax-local/) (2026-10-22)
+- [NW Sammamish Road stays closed until mid-November](https://www.issaquahdispatch.com/news/2026-10-22-nw-sammamish-road-stays-closed-until-mid-november/) (2026-10-22)
+- [The new high school's name moves to a second survey](https://www.issaquahdispatch.com/news/2026-10-22-the-new-high-school-s-name-moves-to-a-second-survey/) (2026-10-22)
+- [Arts grant applications close Tuesday, November 3, at 5 PM](https://www.issaquahdispatch.com/news/2026-10-22-arts-grant-applications-close-tuesday-november-3-at-5-pm/) (2026-10-22)
+- [clear the storm drain before the November rain](https://www.issaquahdispatch.com/news/2026-10-22-clear-the-storm-drain-before-the-november-rain/) (2026-10-22)
+- [PSE's Grand Ridge substation in the Highlands gets its public hearing Wednesday, October 21](https://www.issaquahdispatch.com/news/2026-10-15-pse-s-grand-ridge-substation-in-the-highlands-gets-its-public-hearing/) (2026-10-15)
+- [Council holds a hearing Monday on updated public records fees](https://www.issaquahdispatch.com/news/2026-10-15-council-holds-a-hearing-monday-on-updated-public-records-fees/) (2026-10-15)
+- [The new high school's name gets ranked in person October 21](https://www.issaquahdispatch.com/news/2026-10-15-the-new-high-school-s-name-gets-ranked-in-person-october-21/) (2026-10-15)
+- [Detached ADUs now have a faster permit path](https://www.issaquahdispatch.com/news/2026-10-15-detached-adus-now-have-a-faster-permit-path/) (2026-10-15)
+- [BOO at the Barn is Saturday, October 24](https://www.issaquahdispatch.com/news/2026-10-15-boo-at-the-barn-is-saturday-october-24/) (2026-10-15)
+- [free sandbags, October through April](https://www.issaquahdispatch.com/news/2026-10-15-free-sandbags-october-through-april/) (2026-10-15)
+- [Council takes up a 0.01% sales tax tonight, and the rate you pay at the register stays the same](https://www.issaquahdispatch.com/news/2026-10-12-council-takes-up-a-0-01-sales-tax-tonight-and-the-rate-you-pay-at-the/) (2026-10-12)
+- [A $32 million water treatment plant goes to committee Tuesday, on the RV park's land](https://www.issaquahdispatch.com/news/2026-10-12-a-32-million-water-treatment-plant-goes-to-committee-tuesday-on-the-rv/) (2026-10-12)
+- [NW Sammamish Road stays fully closed west of Lake Sammamish State Park until mid-November](https://www.issaquahdispatch.com/news/2026-10-12-nw-sammamish-road-stays-fully-closed-west-of-lake-sammamish-state-park/) (2026-10-12)
+- [The 2027–28 city budget: two chances left to weigh in](https://www.issaquahdispatch.com/news/2026-10-12-the-2027-28-city-budget-two-chances-left-to-weigh-in/) (2026-10-12)
+- [Green Issaquah Day, Saturday, October 17](https://www.issaquahdispatch.com/news/2026-10-12-green-issaquah-day-saturday-october-17/) (2026-10-12)
+- [November 2, not October 31](https://www.issaquahdispatch.com/news/2026-10-12-november-2-not-october-31/) (2026-10-12)
